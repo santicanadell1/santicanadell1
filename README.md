@@ -92,7 +92,6 @@ Actualmente trabajando en nuevos proyectos que pronto estarán disponibles en mi
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
   
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tu-usuario.tu-usuario)
   
