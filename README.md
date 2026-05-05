@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -46,19 +46,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[MiraloMenu](https://github.com/santicanadell1)** | Interactive QR-based digital menu platform for restaurants | Next.js, Node.js |
-| **[Talently](https://github.com/santicanadell1)** | AI-powered CV analyzer with job description match scoring | FastAPI, Next.js, Hugging Face |
-| **Agentic RAG Chatbot** | ReAct agent with Pinecone vector stores for multi-domain Q&A | LangGraph, LangChain, Gradio |
-| **Task Manager** | Fullstack project management app with CPM critical path & Gantt | .NET 8, Blazor, EF Core |
-| **Themepark** | REST API with TDD, Clean Architecture and dynamic scoring logic | .NET 8, C#, SQL Server |
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
