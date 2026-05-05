@@ -1,97 +1,76 @@
-# 👋 ¡Hola! Soy Santiago Canadell Navarro
-
-<div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ingeniero%20en%20Sistemas&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20en%20ORT%20Uruguay%20|%206to%20Semestre&descAlignY=55&descAlign=center)
-  
-</div>
-
-## 🎓 Sobre Mí
-
--  **Estudiante de Ingeniería en Sistemas** en la Facultad ORT Uruguay (6to semestre)
--  **Ayudante de Ingeniero en Sistemas** (Título intermedio)
--  **Apasionado por la Inteligencia Artificial** y el desarrollo de software
--  Siempre aprendiendo y creciendo profesionalmente
-
----
-
-## 🛠️ Stack Tecnológico
-
 <div align="center">
 
-### Lenguajes de Programación
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5a4632&height=160&section=header&text=Santiago%20Canadell&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=42" />
 
-### Áreas de Interés
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=python&logoColor=white)
-![Software Development](https://img.shields.io/badge/Software_Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+### Systems Engineering Student · Full Stack Developer · AI Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-canadell-a15012297/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5a4632?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-fgou.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:santiagocanadell0@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 En Desarrollo
+## About Me
 
-🔥 **Próximamente proyectos increíbles**
+7th semester Systems Engineering student at ORT Uruguay (GPA 90%), passionate about fullstack development and artificial intelligence. I enjoy taking complex problems and turning them into clean, maintainable solutions — whether that's building robust backends with .NET, designing REST APIs, or experimenting with AI tools and pipelines. Always eager to learn and grow.
 
-Actualmente trabajando en nuevos proyectos que pronto estarán disponibles en mi repositorio. Mantente al tanto de las actualizaciones.
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+
+**Frameworks & Tools**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI / ML**
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[MiraloMenu](https://github.com/santicanadell1)** | Interactive QR-based digital menu platform for restaurants | Next.js, Node.js |
+| **[Talently](https://github.com/santicanadell1)** | AI-powered CV analyzer with job description match scoring | FastAPI, Next.js, Hugging Face |
+| **Agentic RAG Chatbot** | ReAct agent with Pinecone vector stores for multi-domain Q&A | LangGraph, LangChain, Gradio |
+| **Task Manager** | Fullstack project management app with CPM critical path & Gantt | .NET 8, Blazor, EF Core |
+| **Themepark** | REST API with TDD, Clean Architecture and dynamic scoring logic | .NET 8, C#, SQL Server |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  [![Explorar Repositorios](https://img.shields.io/badge/Explorar_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santicanadell1?tab=repositories)
-  
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=santicanadell1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santicanadell1&layout=compact&theme=github_dark&hide_border=true"/>
+
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
-
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santicanadell1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santicanadell1&layout=compact&theme=radical"/>
-  
-</div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santicanadell1&theme=radical)
-  
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5a4632&height=100&section=footer" />
 
----
-
-## 🏆 Logros Académicos
-
-- 🎓 **Título Intermedio**: Ayudante de Ingeniero en Sistemas
-- 📚 **Semestre Actual**: 6to Semestre - Ingeniería en Sistemas
-- 🏫 **Institución**: Facultad ORT Uruguay
-
----
-
-## 🤝 Conectemos
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-canadell-a15012297/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagocanadell0@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santicanadell1)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-  
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tu-usuario.tu-usuario)
-  
 </div>
